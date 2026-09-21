@@ -1,0 +1,4 @@
+interface:
+  display_name: "需求文档优化"
+  short_description: "修改已有需求：梳理行为主流程、压缩实现描述，并分析和确认边界表现"
+  default_prompt: "使用 $optimize-requirements 优化这份已有需求文档，将实现描述转为行为要求，梳理主流程并补齐需确认的边界表现。"
